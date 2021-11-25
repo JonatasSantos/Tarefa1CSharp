@@ -1,0 +1,16 @@
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\bin\Debug\net5.0\Tarefa1CSharp.exe
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\bin\Debug\net5.0\Tarefa1CSharp.deps.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\bin\Debug\net5.0\Tarefa1CSharp.runtimeconfig.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\bin\Debug\net5.0\Tarefa1CSharp.runtimeconfig.dev.json
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\bin\Debug\net5.0\Tarefa1CSharp.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\bin\Debug\net5.0\ref\Tarefa1CSharp.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\bin\Debug\net5.0\Tarefa1CSharp.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\obj\Debug\net5.0\Tarefa1CSharp.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\obj\Debug\net5.0\Tarefa1CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\obj\Debug\net5.0\Tarefa1CSharp.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\obj\Debug\net5.0\Tarefa1CSharp.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\obj\Debug\net5.0\Tarefa1CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\obj\Debug\net5.0\Tarefa1CSharp.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\obj\Debug\net5.0\ref\Tarefa1CSharp.dll
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\obj\Debug\net5.0\Tarefa1CSharp.pdb
+C:\Users\Jonatas\Desktop\Sites e WebApps\C#\Tarefa1CSharp\Tarefa1CSharp\obj\Debug\net5.0\Tarefa1CSharp.genruntimeconfig.cache
